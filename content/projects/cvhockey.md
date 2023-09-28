@@ -1,7 +1,7 @@
 +++
 authors = ["Connor McKinley"]
 title = "[Computer Vision] Hockey Puck Detection"
-date = "2022-04-01"
+date = "2023-04-01"
 description = "Documentation of Hockey Puck Detection"
 tags = [
     "Computer Vision",
