@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.connormckinley.com/projects/awsdemo/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.connormckinley.com/projects/csesim/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.connormckinley.com/tags/aws/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.connormckinley.com/tags/cloud-engineering/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.connormckinley.com/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.connormckinley.com/projects/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.connormckinley.com/tags/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.connormckinley.com/projects/portfolio/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.connormckinley.com/tags/cloud/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.connormckinley.com/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.connormckinley.com/projects/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.connormckinley.com/tags/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.connormckinley.com/tags/web/</loc>
@@ -26,10 +38,16 @@
     <loc>https://www.connormckinley.com/tags/architecture/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.connormckinley.com/projects/cvhockey/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.connormckinley.com/projects/resurgam/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.connormckinley.com/projects/pandas/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.connormckinley.com/tags/computer-vision/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.connormckinley.com/tags/development/</loc>
@@ -38,20 +56,14 @@
     <loc>https://www.connormckinley.com/tags/game/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.connormckinley.com/tags/machine-learning/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.connormckinley.com/tags/open-source/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.connormckinley.com/tags/python/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.connormckinley.com/projects/cvhockey/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.connormckinley.com/tags/computer-vision/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.connormckinley.com/tags/machine-learning/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.connormckinley.com/projects/ahbr/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>

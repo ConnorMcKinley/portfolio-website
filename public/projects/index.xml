@@ -6,7 +6,25 @@
     <description>Recent content in Projects on ConnorMcKinley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Cloud] AWS static website demo</title>
+      <link>https://www.connormckinley.com/projects/awsdemo/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/awsdemo/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>[VR] CSE Simulator</title>
+      <link>https://www.connormckinley.com/projects/csesim/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/csesim/</guid>
+      <description> </description>
+    </item>
+    
     <item>
       <title>[Cloud] Portfolio Website</title>
       <link>https://www.connormckinley.com/projects/portfolio/</link>
@@ -26,6 +44,15 @@
     </item>
     
     <item>
+      <title>[Computer Vision] Hockey Puck Detection</title>
+      <link>https://www.connormckinley.com/projects/cvhockey/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/cvhockey/</guid>
+      <description> WIP Link to heading </description>
+    </item>
+    
+    <item>
       <title>[Game] Resurgam</title>
       <link>https://www.connormckinley.com/projects/resurgam/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
@@ -41,15 +68,6 @@
       
       <guid>https://www.connormckinley.com/projects/pandas/</guid>
       <description>WIP Link to heading https://github.com/pandas-dev/pandas/pull/52772</description>
-    </item>
-    
-    <item>
-      <title>[Computer Vision] Hockey Puck Detection</title>
-      <link>https://www.connormckinley.com/projects/cvhockey/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.connormckinley.com/projects/cvhockey/</guid>
-      <description> WIP Link to heading </description>
     </item>
     
     <item>
