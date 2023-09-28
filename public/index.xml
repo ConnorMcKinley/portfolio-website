@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ConnorMcKinley</title>
+    <link>https://www.connormckinley.com/</link>
+    <description>Recent content on ConnorMcKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Cloud] Portfolio Website</title>
+      <link>https://www.connormckinley.com/projects/portfolio/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/portfolio/</guid>
+      <description> WIP Link to heading </description>
+    </item>
+    
+    <item>
+      <title>[Cloud] Python Package Index</title>
+      <link>https://www.connormckinley.com/projects/ppi/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ppi/</guid>
+      <description> WIP Link to heading </description>
+    </item>
+    
+    <item>
+      <title>[Game] Resurgam</title>
+      <link>https://www.connormckinley.com/projects/resurgam/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/resurgam/</guid>
+      <description> WIP Link to heading </description>
+    </item>
+    
+    <item>
+      <title>[Software] Pandas Contribution</title>
+      <link>https://www.connormckinley.com/projects/pandas/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/pandas/</guid>
+      <description>WIP Link to heading https://github.com/pandas-dev/pandas/pull/52772</description>
+    </item>
+    
+    <item>
+      <title>[Robotics] Autonomous Hospital Bed Robot</title>
+      <link>https://www.connormckinley.com/projects/ahbr/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ahbr/</guid>
+      <description> WIP Link to heading </description>
+    </item>
+    
+    <item>
+      <title>[Game] Cosmic Collision</title>
+      <link>https://www.connormckinley.com/projects/cosmic-collision/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/cosmic-collision/</guid>
+      <description> WIP Link to heading </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.connormckinley.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/about/</guid>
+      <description>Hi, I&amp;rsquo;m Connor.
+I study computer science at the University of Michigan with plans to graduate with a BSE in August 2024.
+I&amp;rsquo;ve acquired experience across various software development domains, including Frontend, Backend, Cloud, and Game development.
+Going forward, I plan to study abroad in France to diversify my cultural experience and gain a broader perspective on global tech trends and methodologies.</description>
+    </item>
+    
+  </channel>
+</rss>
