@@ -11,4 +11,4 @@ tags = [
 
 # WIP
 
-![Resurgam](/images/posts/resurgam.png)
+https://github.com/ConnorMcKinley/portfolio-website

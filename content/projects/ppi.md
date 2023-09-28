@@ -11,4 +11,6 @@ tags = [
 
 # WIP
 
-![Python Package Index](/images/posts/ppi.png)
+![Python Package Index](/images/posts/ppi1.png)
+![Python Package Index](/images/posts/ppi2.png)
+![Python Package Index](/images/posts/ppi3.png)

@@ -13,7 +13,7 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/portfolio/</guid>
-      <description> WIP Link to heading </description>
+      <description>WIP Link to heading https://github.com/ConnorMcKinley/portfolio-website</description>
     </item>
     
     <item>
@@ -44,9 +44,18 @@
     </item>
     
     <item>
+      <title>[Computer Vision] Hockey Puck Detection</title>
+      <link>https://www.connormckinley.com/projects/cvhockey/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/cvhockey/</guid>
+      <description> WIP Link to heading </description>
+    </item>
+    
+    <item>
       <title>[Robotics] Autonomous Hospital Bed Robot</title>
       <link>https://www.connormckinley.com/projects/ahbr/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/ahbr/</guid>
       <description> WIP Link to heading </description>
