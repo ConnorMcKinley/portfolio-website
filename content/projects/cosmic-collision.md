@@ -11,4 +11,4 @@ tags = [
 
 # WIP
 
-![Cosmic Collision](/images/posts/cosmic-collision.png)
+{{< youtube "1AFehRI7KZI?si=2CcFO7e5d0lsQ4AE" >}}
