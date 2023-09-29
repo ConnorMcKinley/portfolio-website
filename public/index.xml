@@ -13,7 +13,7 @@
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/awsdemo/</guid>
-      <description> </description>
+      <description>After my time working as a cloud engineer, I set out to create a beginner-friendly video demo to show how to host a static website using AWS. This project was all about breaking down the process into simple, understandable steps, making AWS technology approachable for everyone, even those new to it. By producing this easy-to-follow introductory video, I hoped to bridge the gap between complex hosting solutions and beginners looking to learn and understand the technology.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/csesim/</guid>
-      <description> </description>
+      <description>Embarking on a journey to blend nostalgia with technology, I leveraged the power of Unreal Engine to craft a virtual reality experience, the &amp;ldquo;CSE Simulator.&amp;rdquo; This project creates a virtual version of our university&amp;rsquo;s computer lab that was set to be shut down, keeping its memory alive. The simulator lets users explore and interact with the lab as if they were really there, making it a digital memory for everyone who spent time in it.</description>
     </item>
     
     <item>
@@ -31,16 +31,18 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/portfolio/</guid>
-      <description>WIP Link to heading https://github.com/ConnorMcKinley/portfolio-website</description>
+      <description>By utilizing AWS services, I was able to create a serverless portfolio website. The website is hosted on S3, and the domain is managed by Route 53. The website is built using Hugo, and the content is written in Markdown. The website is deployed using GitHub Actions, and the content is stored in a GitHub repository.
+The result is a website that is easy to maintain and update. The website is also easily scalable, and can handle large amounts of traffic.</description>
     </item>
     
     <item>
       <title>[Cloud] Python Package Index</title>
       <link>https://www.connormckinley.com/projects/ppi/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/ppi/</guid>
-      <description> WIP Link to heading </description>
+      <description>While at Amway, I spearheaded the development of a Python Package Index hosted on AWS infrastructure, aimed at fostering collaboration between various cloud teams. This initiative was crucial in providing a centralized platform for efficient package management and sharing, thereby optimizing workflow and enhancing overall productivity among the teams.
+I utilized AWS CloudFormation to facilitate a streamlined deployment processes as well as version control. These enhancements were pivotal in maintaining consistency and reliability within the cloud environments, allowing for a more integrated and coordinated approach to cloud-based project development.</description>
     </item>
     
     <item>
@@ -49,16 +51,8 @@
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/cvhockey/</guid>
-      <description> WIP Link to heading </description>
-    </item>
-    
-    <item>
-      <title>[Game] Resurgam</title>
-      <link>https://www.connormckinley.com/projects/resurgam/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.connormckinley.com/projects/resurgam/</guid>
-      <description> WIP Link to heading </description>
+      <description>To address the difficulties viewers face in tracking the puck during a streamed hockey game, our team undertook a pioneering project to enhance hockey broadcasts. The motivation was to simplify the viewing experience, allowing a broader audience to enjoy the sport.
+We exploited advanced object detection techniques and implemented the Ultralytics YOLOv8 Convolutional Neural Network model, trained on 200 manually labeled hockey game images from Youtube. This approach enabled us to accurately track the puck&amp;rsquo;s motion and superimpose a trail and bounding box on the live broadcast in real time, offering a seamless and enhanced viewing experience.</description>
     </item>
     
     <item>
@@ -67,7 +61,27 @@
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/pandas/</guid>
-      <description>WIP Link to heading https://github.com/pandas-dev/pandas/pull/52772</description>
+      <description>I had the opportunity to contribute to the renowned open-source data analysis library, Pandas, by adding test cases to its codebase.
+My contribution involved developing test cases designed to validate the functionality and reliability of various functions within the library. These test cases are essential for maintaining the integrity of the software, allowing for the identification and resolution of potential issues and ensuring the continual refinement of the library’s capabilities.</description>
+    </item>
+    
+    <item>
+      <title>[UI / UX] Figma</title>
+      <link>https://www.connormckinley.com/projects/figma/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/figma/</guid>
+      <description> Figma Prototypes (Post is WIP) Link to heading </description>
+    </item>
+    
+    <item>
+      <title>[Game] Resurgam</title>
+      <link>https://www.connormckinley.com/projects/resurgam/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/resurgam/</guid>
+      <description>In 2021, I started the development of a unique survival sandbox game set in a world centuries after a successful alien invasion. The project stands out with its innovative game mechanics.
+The technical foundation of the game is built on algorithms such as Dual Contour and Octrees. These algorithms are used to procedurally generate the terrain, which is then populated with flora and fauna. The game also features a dynamic weather system.</description>
     </item>
     
     <item>
@@ -76,7 +90,8 @@
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/ahbr/</guid>
-      <description> WIP Link to heading </description>
+      <description>Amidst the ongoing global health crisis brought on by the coronavirus pandemic, hospitals worldwide are grappling with a significant shortage of nursing staff. In this critical juncture, my team initiated the development of a robotic solution, aiming to optimize hospital workflows and alleviate the burden on nursing staff by automating routine tasks.
+I was responsible for implementing the line tracing algorithm that empowers the BedBot to navigate seamlessly through the hospital corridors.</description>
     </item>
     
     <item>
@@ -85,7 +100,8 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/cosmic-collision/</guid>
-      <description> WIP Link to heading </description>
+      <description>In my journey through game development, I took my first stride with &amp;ldquo;Cosmic Collision,&amp;rdquo; a puzzle game developed during my High School Game Design course. This game, my inaugural attempt using Unity, immerses players in a sci-fi environment where they utilize gravity to annihilate enemy planets, offering a variety of challenges and intriguing gameplay mechanics.
+Cosmic Collision served as a creative canvas where I designed numerous game assets, delving into the basics of models, textures, and shaders, laying down the foundational blocks of my understanding of game development.</description>
     </item>
     
     <item>
@@ -96,7 +112,7 @@
       <guid>https://www.connormckinley.com/about/</guid>
       <description>Hi, I&amp;rsquo;m Connor.
 I study computer science at the University of Michigan with plans to graduate with a BSE in August 2024.
-I&amp;rsquo;ve acquired experience across various software development domains, including Frontend, Backend, Cloud, and Game development.
+I&amp;rsquo;ve acquired experience across various software development domains, including front-end, back-end, cloud, and game development.
 Going forward, I plan to study abroad in France to diversify my cultural experience and gain a broader perspective on global tech trends and methodologies.</description>
     </item>
     

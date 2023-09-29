@@ -6,14 +6,15 @@
     <description>Recent content in Architecture on ConnorMcKinley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Cloud] Python Package Index</title>
       <link>https://www.connormckinley.com/projects/ppi/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/ppi/</guid>
-      <description> WIP Link to heading </description>
+      <description>While at Amway, I spearheaded the development of a Python Package Index hosted on AWS infrastructure, aimed at fostering collaboration between various cloud teams. This initiative was crucial in providing a centralized platform for efficient package management and sharing, thereby optimizing workflow and enhancing overall productivity among the teams.
+I utilized AWS CloudFormation to facilitate a streamlined deployment processes as well as version control. These enhancements were pivotal in maintaining consistency and reliability within the cloud environments, allowing for a more integrated and coordinated approach to cloud-based project development.</description>
     </item>
     
   </channel>
