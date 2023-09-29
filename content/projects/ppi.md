@@ -14,5 +14,5 @@ While at Amway, I spearheaded the development of a Python Package Index hosted o
 I utilized AWS CloudFormation to facilitate a streamlined deployment processes as well as version control. These enhancements were pivotal in maintaining consistency and reliability within the cloud environments, allowing for a more integrated and coordinated approach to cloud-based project development.
 
 ![Python Package Index](/images/posts/ppi1.png)
-![Python Package Index](/images/posts/ppi2.png)
-![Python Package Index](/images/posts/ppi3.png)
+![Python Package Index](/images/posts/ppi2.jpg)
+![Python Package Index](/images/posts/ppi3.jpg)
