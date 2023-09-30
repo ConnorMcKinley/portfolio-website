@@ -1,6 +1,6 @@
 +++
 authors = ["Connor McKinley"]
-title = "[Cloud] AWS static website demo"
+title = "[Cloud] AWS Static Website Demo"
 date = "2023-09-01"
 description = "Documentation of AWS static website demo"
 tags = [
