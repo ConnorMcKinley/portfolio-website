@@ -15,5 +15,6 @@ The goal was to make a simple, interactive replica that holds all the charm and 
 
 In short, the CSE Simulator is a fun, interactive way to look back at a piece of our university’s history, offering a virtual walk down memory lane for those who had experiences in the actual computer lab.
 
-{{< youtube "l6w1Njkm0nU?si=elC3I7KJAlNy7Lk3" >}}
+{{< youtube "AHt1CYhPwSk?si=DtKbNoKh2gUszhzk" >}}
 
+~~~~
