@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-Embarking on a journey to blend nostalgia with technology, I leveraged the power of Unreal Engine to craft a virtual reality experience, the "CSE Simulator." This project creates a virtual version of our university's computer lab that was set to be shut down, keeping its memory alive. The simulator lets users explore and interact with the lab as if they were really there, making it a digital memory for everyone who spent time in it.
+Embarking on a journey to blend nostalgia with technology, I leveraged the power of **Unreal Engine** to craft a virtual reality experience, the "CSE Simulator." This project creates a virtual version of our university's computer lab that was set to be shut down, keeping its memory alive. The simulator lets users explore and interact with the lab as if they were really there, making it a digital memory for everyone who spent time in it.
 
 The goal was to make a simple, interactive replica that holds all the charm and nostalgia of the real lab, so users can feel connected to it and remember the good times they had.
 
