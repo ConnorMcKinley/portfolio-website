@@ -1,20 +1,29 @@
 +++
 authors = ["Connor McKinley"]
-title = "[VR] CSE Simulator"
-date = "2023-09-01"
-description = "Documentation of CSE Simulator"
+title = "[Game] Infection Defense"
+date = "2022-09-01"
+description = "Documentation of Infection Defense"
 tags = [
-    "Cloud Engineering",
-    "AWS"
+    "Game Development",
+    "Unreal Engine"
 ]
 +++
+At Auxin Games, I was at the forefront of developing 'Infection Defense', a game designed to educate students about the complexities of the immune system. I was instrumental in enhancing the gameplay experience, introducing a refined user interface, intuitive controls, an overhauled particle system, and innovative character behaviors. Furthermore, with an eye towards the future and team scalability, I meticulously documented 70% of the codebase, ensuring a seamless transition for incoming developers.
 
-Embarking on a journey to blend nostalgia with technology, I leveraged the power of **Unreal Engine** to craft a virtual reality experience, the "CSE Simulator." This project creates a virtual version of our university's computer lab that was set to be shut down, keeping its memory alive. The simulator lets users explore and interact with the lab as if they were really there, making it a digital memory for everyone who spent time in it.
+The following video was recorded after my changes were implemented into the official game.
 
-The goal was to make a simple, interactive replica that holds all the charm and nostalgia of the real lab, so users can feel connected to it and remember the good times they had.
+{{< youtube "yfGpy1s8JPk?si=qHqidPBx9D6NQxEl" >}}
 
-In short, the CSE Simulator is a fun, interactive way to look back at a piece of our university’s history, offering a virtual walk down memory lane for those who had experiences in the actual computer lab.
+In the following video demonstration, I showcase a feature that I developed to highlight UI and non-UI elements. This feature was intended to be used during in-game tutorials to focus the users attention to what was being described. It employs a novel procedural approach that uses the bounds of an object to cut out holes in a transparent texture. This feature was instrumental to the rapid development of the updated tutorials.
 
-{{< youtube "AHt1CYhPwSk?si=DtKbNoKh2gUszhzk" >}}
+{{< youtube "2jKtFcxGBwY?si=tUQJ4hdEAeRrgpBJ" >}}
+
+In the next video, I demonstrate an out of bounds feature that I designed. Specifically, it notifies the player that they cannot place the unit at the location that they provided. This feature allows artists to form the boundaries to any map shape.
+
+{{< youtube "_IbOVpeU71U?si=5TD5pbSZMZZYXP4x" >}}
+
+At Auxin Games, I played a pivotal role in shaping the behavior and design of unit types, namely the T Cell and & B Cell. I presented my ideas and concepts through this video to the lead developer, and I was pleased to see many of my proposed designs were incorporated into the official game within just a few weeks.
+
+{{< youtube "dMeZ4z0nP74?si=iGKvBUSh10HEoEtj" >}}
 
 ~~~~
