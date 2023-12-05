@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on ConnorMcKinley</title>
+    <link>https://www.connormckinley.com/tags/development/</link>
+    <description>Recent content in Development on ConnorMcKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Game] Resurgam</title>
+      <link>https://www.connormckinley.com/projects/resurgam/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/resurgam/</guid>
+      <description>In 2021, I started the development of a unique survival sandbox game set in a world centuries after a successful alien invasion. The project stands out with its innovative game mechanics.
+The technical foundation of the game is built on algorithms such as Dual Contour and Octrees. These algorithms are used to procedurally generate the terrain, which is then populated with flora and fauna. The game also features a dynamic weather system.</description>
+    </item>
+    
+    <item>
+      <title>[Game] Cosmic Collision</title>
+      <link>https://www.connormckinley.com/projects/cosmic-collision/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/cosmic-collision/</guid>
+      <description>In my journey through game development, I took my first stride with &amp;ldquo;Cosmic Collision,&amp;rdquo; a puzzle game developed during my High School Game Design course. This game, my inaugural attempt using Unity, immerses players in a sci-fi environment where they utilize gravity to annihilate enemy planets, offering a variety of challenges and intriguing gameplay mechanics.
+Cosmic Collision served as a creative canvas where I designed numerous game assets, delving into the basics of models, textures, and shaders, laying down the foundational blocks of my understanding of game development.</description>
+    </item>
+    
+  </channel>
+</rss>
