@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Connor McKinley"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Connor's unparelleled portfolio"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Connor McKinley"
+  image = "img/pfp.png"
+  headline = "Software Engineer and World Builder"
+#  bio = "A little bit about you"
+  links = [
+     { github = "https://github.com/connormckinley/" },
+     { linkedin = "https://www.linkedin.com/in/connormckinley/" },
+   ]
