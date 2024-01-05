@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connor McKinley</title>
+    <link>https://www.connormckinley.com/</link>
+    <description>Recent content on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vocab Village</title>
+      <link>https://www.connormckinley.com/projects/xr/vocab-village/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/xr/vocab-village/</guid>
+      <description>Developed a virtual reality experience to enhance vocabulary learning for students.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/xr/vocab-village/featured.png" />
+    </item>
+    
+    <item>
+      <title>A2GO</title>
+      <link>https://www.connormckinley.com/projects/xr/a2go/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/xr/a2go/</guid>
+      <description>Documentation of A2GO</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/xr/a2go/featured.png" />
+    </item>
+    
+    <item>
+      <title>AWS Static Website Demo</title>
+      <link>https://www.connormckinley.com/projects/cloud/aws-demo/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/cloud/aws-demo/</guid>
+      <description>Documentation of AWS static website demo</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/cloud/aws-demo/featured.png" />
+    </item>
+    
+    <item>
+      <title>CSE Simulator</title>
+      <link>https://www.connormckinley.com/projects/xr/csesim/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/xr/csesim/</guid>
+      <description>A virtual reality experience that lets users explore and interact with a computer lab that was set to be shut down, keeping its memory alive.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/xr/csesim/featured.png" />
+    </item>
+    
+    <item>
+      <title>Portfolio Website</title>
+      <link>https://www.connormckinley.com/projects/ux/portfolio/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ux/portfolio/</guid>
+      <description>Design and development of my portfolio website</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/ux/portfolio/featured.png" />
+    </item>
+    
+    <item>
+      <title>Python Package Index</title>
+      <link>https://www.connormckinley.com/projects/cloud/ppi/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/cloud/ppi/</guid>
+      <description>Development Log of Python Package Index</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/cloud/ppi/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hockey Puck Detection</title>
+      <link>https://www.connormckinley.com/projects/ml/cvhockey/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ml/cvhockey/</guid>
+      <description>Real-time detection and tracking of a hockey puck in a live broadcast</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/ml/cvhockey/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pandas Contribution</title>
+      <link>https://www.connormckinley.com/projects/software/pandas/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/software/pandas/</guid>
+      <description>Contributed to the renowned open-source data analysis library, Pandas.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/software/pandas/featured.png" />
+    </item>
+    
+    <item>
+      <title>Career Exploration</title>
+      <link>https://www.connormckinley.com/projects/ux/figma/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ux/figma/</guid>
+      <description>Utilizing Figma to create prototypes for an app designed to encourage students to explore the campus more extensively and an app designed to aid students in exploring and determining their career pathways.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/ux/figma/featured.png" />
+    </item>
+    
+    <item>
+      <title>Infection Defense</title>
+      <link>https://www.connormckinley.com/projects/game/infection-defense/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/infection-defense/</guid>
+      <description>Documentation of Infection Defense</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/game/infection-defense/featured.png" />
+    </item>
+    
+    <item>
+      <title>Resurgam</title>
+      <link>https://www.connormckinley.com/projects/game/resurgam/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/resurgam/</guid>
+      <description>A unique survival sandbox game set in a world centuries after a successful alien invasion.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/game/resurgam/featured.png" />
+    </item>
+    
+    <item>
+      <title>Autonomous Hospital Bed Robot</title>
+      <link>https://www.connormckinley.com/projects/embedded/ahbr/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/embedded/ahbr/</guid>
+      <description>Documentation of Autonomous Hospital Bed Robot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/embedded/ahbr/featured.png" />
+    </item>
+    
+    <item>
+      <title>Cosmic Collision</title>
+      <link>https://www.connormckinley.com/projects/game/cosmic-collision/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/cosmic-collision/</guid>
+      <description>Development Log of Cosmic Collision</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/game/cosmic-collision/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

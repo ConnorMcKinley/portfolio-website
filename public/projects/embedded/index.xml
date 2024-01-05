@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded Software on Connor McKinley</title>
+    <link>https://www.connormckinley.com/projects/embedded/</link>
+    <description>Recent content in Embedded Software on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/projects/embedded/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autonomous Hospital Bed Robot</title>
+      <link>https://www.connormckinley.com/projects/embedded/ahbr/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/embedded/ahbr/</guid>
+      <description>Documentation of Autonomous Hospital Bed Robot</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/embedded/ahbr/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

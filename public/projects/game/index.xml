@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Development on Connor McKinley</title>
+    <link>https://www.connormckinley.com/projects/game/</link>
+    <description>Recent content in Game Development on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/projects/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infection Defense</title>
+      <link>https://www.connormckinley.com/projects/game/infection-defense/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/infection-defense/</guid>
+      <description>Documentation of Infection Defense</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/game/infection-defense/featured.png" />
+    </item>
+    
+    <item>
+      <title>Resurgam</title>
+      <link>https://www.connormckinley.com/projects/game/resurgam/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/resurgam/</guid>
+      <description>A unique survival sandbox game set in a world centuries after a successful alien invasion.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/game/resurgam/featured.png" />
+    </item>
+    
+    <item>
+      <title>Cosmic Collision</title>
+      <link>https://www.connormckinley.com/projects/game/cosmic-collision/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/cosmic-collision/</guid>
+      <description>Development Log of Cosmic Collision</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/game/cosmic-collision/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

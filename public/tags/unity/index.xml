@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity on Connor McKinley</title>
+    <link>https://www.connormckinley.com/tags/unity/</link>
+    <description>Recent content in Unity on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vocab Village</title>
+      <link>https://www.connormckinley.com/projects/xr/vocab-village/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/xr/vocab-village/</guid>
+      <description>Developed a virtual reality experience to enhance vocabulary learning for students.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/xr/vocab-village/featured.png" />
+    </item>
+    
+    <item>
+      <title>A2GO</title>
+      <link>https://www.connormckinley.com/projects/xr/a2go/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/xr/a2go/</guid>
+      <description>Documentation of A2GO</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/xr/a2go/featured.png" />
+    </item>
+    
+    <item>
+      <title>Infection Defense</title>
+      <link>https://www.connormckinley.com/projects/game/infection-defense/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/infection-defense/</guid>
+      <description>Documentation of Infection Defense</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/game/infection-defense/featured.png" />
+    </item>
+    
+    <item>
+      <title>Cosmic Collision</title>
+      <link>https://www.connormckinley.com/projects/game/cosmic-collision/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/cosmic-collision/</guid>
+      <description>Development Log of Cosmic Collision</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/game/cosmic-collision/featured.png" />
+    </item>
+    
+    <item>
+      <title>Extended Reality</title>
+      <link>https://www.connormckinley.com/projects/xr/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/xr/</guid>
+      <description>Documentation of my Extended Reality projects</description>
+      
+    </item>
+    
+    <item>
+      <title>Game Development</title>
+      <link>https://www.connormckinley.com/projects/game/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/</guid>
+      <description>Documentation of my game development projects</description>
+      
+    </item>
+    
+  </channel>
+</rss>

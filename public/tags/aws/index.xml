@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Connor McKinley</title>
+    <link>https://www.connormckinley.com/tags/aws/</link>
+    <description>Recent content in AWS on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Static Website Demo</title>
+      <link>https://www.connormckinley.com/projects/cloud/aws-demo/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/cloud/aws-demo/</guid>
+      <description>Documentation of AWS static website demo</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/cloud/aws-demo/featured.png" />
+    </item>
+    
+    <item>
+      <title>Portfolio Website</title>
+      <link>https://www.connormckinley.com/projects/ux/portfolio/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ux/portfolio/</guid>
+      <description>Design and development of my portfolio website</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/ux/portfolio/featured.png" />
+    </item>
+    
+    <item>
+      <title>Cloud Engineering</title>
+      <link>https://www.connormckinley.com/projects/cloud/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/cloud/</guid>
+      <description>Documentation of my cloud engineering projects</description>
+      
+    </item>
+    
+    <item>
+      <title>User Experience</title>
+      <link>https://www.connormckinley.com/projects/ux/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ux/</guid>
+      <description>Documentation of my user experience projects</description>
+      
+    </item>
+    
+  </channel>
+</rss>

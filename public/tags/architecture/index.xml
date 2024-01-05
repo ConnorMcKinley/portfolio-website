@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on Connor McKinley</title>
+    <link>https://www.connormckinley.com/tags/architecture/</link>
+    <description>Recent content in Architecture on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Package Index</title>
+      <link>https://www.connormckinley.com/projects/cloud/ppi/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/cloud/ppi/</guid>
+      <description>Development Log of Python Package Index</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/cloud/ppi/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

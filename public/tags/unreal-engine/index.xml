@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unreal Engine on Connor McKinley</title>
+    <link>https://www.connormckinley.com/tags/unreal-engine/</link>
+    <description>Recent content in Unreal Engine on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/tags/unreal-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSE Simulator</title>
+      <link>https://www.connormckinley.com/projects/xr/csesim/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/xr/csesim/</guid>
+      <description>A virtual reality experience that lets users explore and interact with a computer lab that was set to be shut down, keeping its memory alive.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/xr/csesim/featured.png" />
+    </item>
+    
+    <item>
+      <title>Resurgam</title>
+      <link>https://www.connormckinley.com/projects/game/resurgam/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/resurgam/</guid>
+      <description>A unique survival sandbox game set in a world centuries after a successful alien invasion.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/game/resurgam/featured.png" />
+    </item>
+    
+    <item>
+      <title>Extended Reality</title>
+      <link>https://www.connormckinley.com/projects/xr/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/xr/</guid>
+      <description>Documentation of my Extended Reality projects</description>
+      
+    </item>
+    
+    <item>
+      <title>Game Development</title>
+      <link>https://www.connormckinley.com/projects/game/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/game/</guid>
+      <description>Documentation of my game development projects</description>
+      
+    </item>
+    
+  </channel>
+</rss>

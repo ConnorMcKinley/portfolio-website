@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Connor McKinley</title>
+    <link>https://www.connormckinley.com/tags/javascript/</link>
+    <description>Recent content in JavaScript on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <atom:link href="https://www.connormckinley.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineering</title>
+      <link>https://www.connormckinley.com/projects/software/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/software/</guid>
+      <description>Documentation of my software engineering projects</description>
+      
+    </item>
+    
+  </channel>
+</rss>

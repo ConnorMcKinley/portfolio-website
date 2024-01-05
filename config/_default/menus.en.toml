@@ -10,31 +10,51 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  name = "Projects"
+  weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Cloud"
+  pageRef = "projects/cloud"
+  parent = "Projects"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+name = "Embedded"
+pageRef = "projects/embedded"
+parent = "Projects"
+weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+name = "Game Development"
+parent = "Projects"
+pageRef = "projects/game"
+weight = 20
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
+[[main]]
+name = "Machine Learning"
+parent = "Projects"
+pageRef = "projects/ml"
+weight = 20
+
+[[main]]
+name = "Software Engineering"
+parent = "Projects"
+pageRef = "projects/software"
+weight = 20
+
+[[main]]
+name = "UI/UX"
+parent = "Projects"
+pageRef = "projects/ux"
+weight = 20
+
+[[main]]
+name = "XR"
+parent = "Projects"
+pageRef = "projects/xr"
+weight = 20
 
 #[[subnavigation]]
 #  name = "My Awesome Category"

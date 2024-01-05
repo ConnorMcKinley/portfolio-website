@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Connor McKinley</title>
+    <link>https://www.connormckinley.com/tags/python/</link>
+    <description>Recent content in Python on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hockey Puck Detection</title>
+      <link>https://www.connormckinley.com/projects/ml/cvhockey/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ml/cvhockey/</guid>
+      <description>Real-time detection and tracking of a hockey puck in a live broadcast</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/ml/cvhockey/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pandas Contribution</title>
+      <link>https://www.connormckinley.com/projects/software/pandas/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/software/pandas/</guid>
+      <description>Contributed to the renowned open-source data analysis library, Pandas.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/software/pandas/featured.png" />
+    </item>
+    
+    <item>
+      <title>Embedded Software</title>
+      <link>https://www.connormckinley.com/projects/embedded/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/embedded/</guid>
+      <description>Documentation of my embedded software projects</description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://www.connormckinley.com/projects/ml/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ml/</guid>
+      <description>Documentation of my machine learning projects</description>
+      
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://www.connormckinley.com/projects/software/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/software/</guid>
+      <description>Documentation of my software engineering projects</description>
+      
+    </item>
+    
+  </channel>
+</rss>

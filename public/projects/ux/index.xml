@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Experience on Connor McKinley</title>
+    <link>https://www.connormckinley.com/projects/ux/</link>
+    <description>Recent content in User Experience on Connor McKinley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Connor McKinley</copyright>
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.connormckinley.com/projects/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio Website</title>
+      <link>https://www.connormckinley.com/projects/ux/portfolio/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ux/portfolio/</guid>
+      <description>Design and development of my portfolio website</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/ux/portfolio/featured.png" />
+    </item>
+    
+    <item>
+      <title>Career Exploration</title>
+      <link>https://www.connormckinley.com/projects/ux/figma/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.connormckinley.com/projects/ux/figma/</guid>
+      <description>Utilizing Figma to create prototypes for an app designed to encourage students to explore the campus more extensively and an app designed to aid students in exploring and determining their career pathways.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/ux/figma/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
