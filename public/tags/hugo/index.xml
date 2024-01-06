@@ -14,7 +14,7 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.connormckinley.com/projects/ux/portfolio/</guid>
-      <description>Design and development of my portfolio website</description>
+      <description>Serverless portfolio website built using Hugo and AWS.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.connormckinley.com/projects/ux/portfolio/featured.png" />
     </item>
     

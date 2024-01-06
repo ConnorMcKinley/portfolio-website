@@ -1,7 +1,7 @@
 ---
 title: "Python Package Index"
 draft: false
-summary: "Development Log of Python Package Index"
+summary: "Python Package Index hosted on AWS infrastructure"
 tags: ["Cloud", "Architecture"]
 showAuthor: false
 showWordCount: false

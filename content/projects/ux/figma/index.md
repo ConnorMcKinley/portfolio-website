@@ -1,7 +1,7 @@
 ---
 title: "Career Exploration"
 draft: false
-summary: "Utilizing Figma to create prototypes for an app designed to encourage students to explore the campus more extensively and an app designed to aid students in exploring and determining their career pathways."
+summary: "Figma prototype for an app designed to encourage students to explore the campus more extensively."
 tags: ["User Experience", "Figma"]
 showAuthor: false
 showWordCount: false

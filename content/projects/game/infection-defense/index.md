@@ -1,7 +1,7 @@
 ---
 title: "Infection Defense"
 draft: false
-summary: "Documentation of Infection Defense"
+summary: "Game designed to educate students about the complexities of the immune system"
 tags: ["Unity", "Game Development", "C#"]
 showAuthor: false
 showWordCount: false

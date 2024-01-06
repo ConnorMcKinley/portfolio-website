@@ -1,7 +1,7 @@
 ---
 title: "AWS Static Website Demo"
 draft: false
-summary: "Documentation of AWS static website demo"
+summary: "Beginner-friendly video demo to show how to host a static website using AWS"
 tags: ["Cloud Engineering", "AWS"]
 showAuthor: false
 showWordCount: false

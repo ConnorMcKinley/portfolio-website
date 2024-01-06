@@ -1,7 +1,7 @@
 ---
 title: "CSE Simulator"
 draft: false
-summary: "A virtual reality experience that lets users explore and interact with a computer lab that was set to be shut down, keeping its memory alive."
+summary: "Virtual reality experience that lets users explore and interact with a computer lab that was set to be shut down, keeping its memory alive."
 tags: ["Unreal Engine", "VR"]
 showAuthor: false
 showWordCount: false

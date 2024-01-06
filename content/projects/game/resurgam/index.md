@@ -1,7 +1,7 @@
 ---
 title: "Resurgam"
 draft: false
-summary: "A unique survival sandbox game set in a world centuries after a successful alien invasion."
+summary: "Unique survival sandbox game set in a world centuries after a successful alien invasion."
 tags: ["Unreal Engine", "C++", "Blender", "Substance Painter", "Substance Designer", "Agile"]
 showAuthor: false
 showWordCount: false

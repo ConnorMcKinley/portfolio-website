@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Website" 
 draft: false
-summary: "Design and development of my portfolio website"
+summary: "Serverless portfolio website built using Hugo and AWS."
 tags: ["Hugo", "AWS"]
 showAuthor: false
 showWordCount: false
@@ -12,8 +12,8 @@ showHero: true
 heroStyle: "thumbAndBackground"
 ---
 
-By utilizing AWS services, I was able to create a serverless portfolio website. The website is hosted on S3, and the domain is managed by Route 53. The website is built using Hugo, and the content is written in Markdown. The website is deployed using GitHub Actions, and the content is stored in a GitHub repository.
+By utilizing AWS services, I created a serverless portfolio website, hosted on S3 with the domain managed by Route 53. The site, built using Hugo and written in Markdown, is deployed through GitHub Actions, with content stored in a GitHub repository. This structure results in a website that is not only easy to maintain and update but also scalable and capable of handling significant traffic.
 
-The result is a website that is easy to maintain and update. The website is also easily scalable, and can handle large amounts of traffic.
+In addition to these technical aspects, I enhanced the website's visual appeal by incorporating custom graphics generated with DALL-E. This innovative AI tool enabled me to create unique, eye-catching images tailored to the site's aesthetic, including my profile picture. The use of DALL-E's advanced capabilities demonstrates my commitment to leveraging cutting-edge technology to create a visually stunning and functionally robust online presence.
 
 https://github.com/ConnorMcKinley/portfolio-website

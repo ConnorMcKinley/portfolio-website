@@ -1,7 +1,7 @@
 ---
 title: "Cosmic Collision"
 draft: false
-summary: "Development Log of Cosmic Collision"
+summary: "Puzzle game where players utilize gravity to annihilate enemy planets"
 tags: ["Unity", "Game Development", "C#"]
 showAuthor: false
 showWordCount: false

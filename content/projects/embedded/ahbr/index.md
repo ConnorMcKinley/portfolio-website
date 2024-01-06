@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Hospital Bed Robot"
 draft: false
-summary: "Documentation of Autonomous Hospital Bed Robot"
+summary: "Autonomous robot that can navigate hospital corridors and deliver items to patients"
 tags: ["Robotics", "Embedded Systems"]
 showAuthor: false
 showWordCount: false
@@ -10,7 +10,6 @@ date: "2021-04-01"
 showReadingTime: false
 showHero: true
 heroStyle: "thumbAndBackground"
-pdf: "assets/documents/ahbr-doc.pdf"
 ---
 
 Amidst the ongoing global health crisis brought on by the coronavirus pandemic, hospitals worldwide are grappling with a significant shortage of nursing staff. In this critical juncture, my team initiated the development of a robotic solution, aiming to optimize hospital workflows and alleviate the burden on nursing staff by automating routine tasks.

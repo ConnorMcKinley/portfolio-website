@@ -1,7 +1,7 @@
 ---
 title: "Pandas Contribution"
 draft: false
-summary: "Contributed to the renowned open-source data analysis library, Pandas."
+summary: "Contribution to the renowned open-source data analysis library, Pandas, by adding test cases to its codebase."
 tags: ["Open Source", "Python", "Pandas"]
 showAuthor: false
 showWordCount: false
